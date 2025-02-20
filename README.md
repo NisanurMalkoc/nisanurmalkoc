@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisanur Malkoç</h1>
-<h3 align="center">I am a software student studying in Turkey.</h3>
+<h3 align="center">I am a software student studying in Turkey.I am in the process of learning Python and C# languages ​​and MSSQL server.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisanurmalkoc&label=Profile%20views&color=0e75b6&style=flat" alt="nisanurmalkoc" /> </p>
 
